@@ -1,0 +1,13 @@
+.add-new-cargo {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+  &__elem {
+    max-width: 250px;
+    height: 40px;
+  }
+}

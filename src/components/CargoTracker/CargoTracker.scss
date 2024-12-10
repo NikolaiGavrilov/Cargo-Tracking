@@ -1,0 +1,15 @@
+.cargo-tracker {
+  width: 100dvw;
+  min-height: 100dvh;
+  background-image: linear-gradient(
+      rgba(233, 239, 241, 0.8),
+      rgba(233, 239, 241, 0.8)
+    ),
+    url("cargo-tracker-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: 80%;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
